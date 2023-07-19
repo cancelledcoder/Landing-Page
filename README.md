@@ -1,4 +1,7 @@
 # Landing-Page
 This repository is a static landing page created for a website called Codestars which offers Courses.
 It is made using Html and Bootstrap.
-It is a practice exercise and not a live website.
+It is a practice exercise and a live website.
+The link for this website hosted on eco web hosting is:
+    http://ayushshahhosting-com.stackstaging.com/codestars/
+
