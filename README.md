@@ -3,5 +3,6 @@ This repository is a static landing page created for a website called Codestars 
 It is made using Html and Bootstrap.
 It is a practice exercise and a live website.
 The link for this website hosted on eco web hosting is:
-    http://ayushshahhosting-com.stackstaging.com/codestars/
+    https://cancelledcoder.github.io/Landing-Page/Landingpage.html
+    
 
